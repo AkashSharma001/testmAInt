@@ -138,7 +138,7 @@ export default function Home() {
                 Start asking questions
               </span>
               <span className='mt-2 text-zinc-700'>
-                That's it. Try mAInt today.
+               { `That\'s it. Try mAInt today.`}
               </span>
             </div>
           </li>
